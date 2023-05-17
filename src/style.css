@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: linear-gradient(130deg, #ccc, #aaa, #888) no-repeat;
+  height: 100vh;
+}
+.un {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.deux button {
+  background-color: #94c72f;
+  margin: 5rem auto;
+}
+.deux {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20rem;
+}
